@@ -51,7 +51,7 @@ The dataset used in this project contains Amazon Electronics product ratings and
 - rating: Rating given by the user to the product.
 - timestamp: Time of the rating.
 
-![Data Description[(https://i.postimg.cc/xjgDMBQK/Screenshot-2024-05-27-at-13-01-23-Amazon-Reviews-Jupyter-Notebook.png)
+![Data Description](https://i.postimg.cc/xjgDMBQK/Screenshot-2024-05-27-at-13-01-23-Amazon-Reviews-Jupyter-Notebook.png)
 
 #### Summary
 
