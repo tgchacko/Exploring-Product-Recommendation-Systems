@@ -14,7 +14,7 @@
 
 [Data Preprocessing Steps and Inspiration](#data-preprocessing-steps-and-inspiration)
 
-[Graphs]
+[Graphs](#graphs)
 
 [Recommendation Techniques](#recommendation-techniques)
 
@@ -111,12 +111,12 @@ Below are the links for details and commands (if required) to install the necess
 
 a. **User-Based Filtering**:
 
-	**KNNBasic**: A basic K-nearest neighbors algorithm for collaborative filtering based on user similarities.
-	**KNNWithMeans**: An enhanced K-nearest neighbors algorithm that takes into account the mean ratings of users for better predictions.
+- **KNNBasic**: A basic K-nearest neighbors algorithm for collaborative filtering based on user similarities.
+- **KNNWithMeans**: An enhanced K-nearest neighbors algorithm that takes into account the mean ratings of users for better predictions.
 
 b. **Item-Based Filtering**:
-	**KNNBasic**: A basic K-nearest neighbors algorithm for collaborative filtering based on item similarities.
-	**KNNWithMeans**: An enhanced K-nearest neighbors algorithm that takes into account the mean ratings of items for better predictions.
+- **KNNBasic**: A basic K-nearest neighbors algorithm for collaborative filtering based on item similarities.
+- **KNNWithMeans**: An enhanced K-nearest neighbors algorithm that takes into account the mean ratings of items for better predictions.
 
 c. **Matrix Factorization (SVD)**: Uses Singular Value Decomposition to predict user ratings for products based on past user ratings.
   
